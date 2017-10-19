@@ -144,10 +144,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Community
 
-* [Dartlang SubReddit](https://www.reddit.com/r/dartlang/)
-* [Gitter Chat Channel](https://gitter.im/dart-lang/home)
-* [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
-* [Stack Overflow](http://stackoverflow.com/tags/dart)
+* [Dartlang SubReddit](https://www.reddit.com/r/angulardart/)
+* [Gitter Chat Channel](https://gitter.im/dart-lang/angular)
+* [Google Group](https://groups.google.com/a/dartlang.org/forum/#!forum/web)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
 
 ## IDEs, Editors, and Plugins
 
